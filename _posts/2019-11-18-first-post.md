@@ -1,22 +1,24 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Welcome to Ingigayo Data Archive Blog!"
+date: 2019-11-18 19:20:28 -0400
+categories: update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Hi, everyone. I am a freshman attending Chung-Ang University College of Arts and Engineering. This site was created for a project by Professor BoA, who has done a lot of research in Art & Technology, in the Applied Arts Engineering class. Our team has been considering various things as the saying, "Let's digitize everything." Among them, we picked one theme from the KPOP!
 
-Jekyll also offers powerful support for code snippets:
+Topic
+Analyze the songs of the live stage TOP 3 and show the trend.
+- According to the most chart statistics, the popularity of the stage is centered.
+- Genre, number of team members (including individuals), age group
+- Analyze stages from 2013 to 1919. (approximately 1050)
 
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
+Way
+The basic UI is a website using a detour.
+-To show four elements interacting with each other
+-Let's make it possible to see the video with a hyperlink!
+-Thinking to show in real time using a circle
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Role distribution
+Web site 3. Jung Woo-sung (14). Lee Jae-won (16). Jung Seung-woo (15).
+Data theorem. 2. Song Jun-ho (17). Mobile (18)
+Design 2. Oh Sang-min (13). Yoon Seung-kwon (19)
