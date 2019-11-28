@@ -12,19 +12,14 @@ Hi, everyone. I am a freshman attending Chung-Ang University College of Arts and
 visualize what you want to claim with the data from your assistant.
 
 [data indicator]
-
 -gender	
 male	0
-female	1
-	
+female	1	
 -age
-  
 -wage
 \ per year	
-	
 -education	
-Elementary	0 ~
-Ph.D	10
+Elementary	0 ~ Ph.D	10
 
 
 1. 
